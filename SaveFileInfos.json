@@ -15,11 +15,6 @@
     "UpdateTime": 1565226091
   },
   {
-    "Directory": "E:\\Elliot\\Documents//My Games//Tabletop Simulator//Saves\\gloomhaven\\Gloomhaven.json",
-    "Name": "-1 - Gloomhaven - in progress - 8/7/2019 9:01:47 PM",
-    "UpdateTime": 1565226109
-  },
-  {
     "Directory": "E:\\Elliot\\Documents//My Games//Tabletop Simulator//Saves\\mtgBack\\TS_AutoSave.json",
     "Name": "Auto Save - MTG 8 Scripted - 4/22/2017 4:49:45 AM",
     "UpdateTime": 1492851009
@@ -73,5 +68,15 @@
     "Directory": "E:\\Elliot\\Documents//My Games//Tabletop Simulator//Saves\\old\\TS_Save_9.json",
     "Name": "9 - MTG 8 Scripted - 4/22/2017 9:22:19 AM",
     "UpdateTime": 1492867339
+  },
+  {
+    "Directory": "E:\\Elliot\\Documents//My Games//Tabletop Simulator//Saves\\gloomhaven\\Gloomhaven.json",
+    "Name": "-1 - Gloomhaven - in progress - 8/7/2019 9:01:47 PM",
+    "UpdateTime": 1565237424
+  },
+  {
+    "Directory": "E:\\Elliot\\Documents//My Games//Tabletop Simulator//Saves\\gloomhaven\\Gloomhaven_1.json",
+    "Name": "-1 - Gloomhaven - in progress - 8/7/2019 9:01:47 PM",
+    "UpdateTime": 1565226109
   }
 ]
